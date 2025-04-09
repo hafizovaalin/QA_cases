@@ -7,3 +7,13 @@
      1.3 Баг репорты
      1.4 Тест вёрстки страницы карточки товара с максимальной и минимальной ценой
 Ссылки на файлы: [case1_links.md](https://github.com/hafizovaalin/QA_cases/blob/main/case1_links.md)
+
+## 2. Тест-кейс по тестовому заданию
+     Разработчики отрефакторили код на лендинге, но теперь нужно проверить, что ничего не сломали на лендинге прода.
+     Ваша задача провести тест лендинга и прислать в ответ отчет по результату тестирования.
+
+Лендинг дева: https://vznaniya.ru/
+
+Лендинг прода: https://landing.vzn.versh.store/
+
+Файл с тест-кейсом: [Ссылка](https://docs.google.com/spreadsheets/d/1C1Pc4ySYQmxq1ZeqETj5pmKesj9fxRhh/edit?usp=sharing&ouid=106690172128244546714&rtpof=true&sd=true)
